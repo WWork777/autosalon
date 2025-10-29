@@ -9,8 +9,8 @@ type Term = {
 };
 
 const terms: Term[] = [
-    { icon: "ph:currency-rub-fill", label: "Ставка", value: "по запросу" },
-    { icon: "ph:drop-fill", label: "Коммунальные", value: "по факту потребления" },
+    { icon: "ph:currency-rub-fill", label: "Кв метр", value: "500 рублей" },
+    { icon: "ph:drop-fill", label: "Коммунальные", value: "отдельно по счетчикам" },
     { icon: "ph:hand-coins-fill", label: "Депозит", value: "1 месяц (обсуждается)" },
     { icon: "ph:calendar-check-fill", label: "Срок договора", value: "от 11 мес — 3–5 лет" },
     { icon: "ph:receipt-fill", label: "Налогообложение", value: "без НДС / возможно с НДС" },

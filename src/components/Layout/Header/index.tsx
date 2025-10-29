@@ -182,7 +182,7 @@ const Header: React.FC = () => {
         <div className="flex items-center justify-between py-5">
           <Link href="/" onClick={() => setNavbarOpen(false)}>
             <Image
-              src="/images/header/dark-logo.svg"
+              src="/images/header/logo.svg"
               alt="logo"
               width={120}
               height={52}
